@@ -12,7 +12,7 @@ HistoMeet is a conceptual UI/UX design project for an innovative platform that a
 - ⚙️ Comprehensive account management
 
 ## Project Link:
-- 
+- https://www.figma.com/design/87zDGjMBjTJzTdQpZbrDdl/HCI-Project?node-id=0-1&p=f&t=khfH897JfDxTaTeg-0
 ## Design Principles Applied
 1. **Hick's Law**: Limited personality choices per screen
 2. **Fitts's Law**: Large, easily tappable elements
